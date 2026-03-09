@@ -1,3 +1,5 @@
+source functions.sh
+
 # This is a comment and that will be ignored by the interpreter.
 
 echo Muruga sharanam !
@@ -20,4 +22,8 @@ echo -e \\e[43mMuruga sharanam !]\\e [0m]
 echo -e \\e[44mMuruga sharanam !]\\e [0m]
 echo -e \\e[45mMuruga sharanam !]\\e [0m]
 echo -e \\e[46mMuruga sharanam !]\\e [0m]
+
+
+
+sumofnumbers
 
